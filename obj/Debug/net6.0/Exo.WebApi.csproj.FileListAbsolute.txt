@@ -1,0 +1,7 @@
+E:\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.AssemblyReference.cache
+E:\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.AssemblyInfoInputs.cache
+E:\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.AssemblyInfo.cs
+E:\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.CoreCompileInputs.cache
+E:\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cache
